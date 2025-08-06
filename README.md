@@ -13,11 +13,7 @@ This Power BI dashboard (or Streamlit, depending on your implementation) empower
 3. [Data Source](#data-source)  
 4. [Tech Stack](#tech-stack)  
 5. [Dashboard Interface](#dashboard-interface)  
-6. [Setup & Usage](#setup--usage)  
-7. [GIF / Screenshots](#gif--screenshots)  
-8. [Insights & Learnings](#insights--learnings)  
-9. [Future Enhancements](#future-enhancements)  
-10. [Contact](#contact)
+6. [Setup & Usage](#setup--usage) 
 
 ---
 
